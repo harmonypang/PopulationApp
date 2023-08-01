@@ -25,6 +25,9 @@ IDE: <br>
 Click to run this project: <br>
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/harmonypang/PopulationApp)
 
-<b>Problem encountered during development</b>: Error: Census.aggregate() is not a function
+<b>Problem encountered during development</b>: <br>
+ • Error: Census.aggregate() is not a function
 
-<b>My Solution</b>: Add line "module.exports = Census" in "census.js" model file (This line allows the Census model to be properly exported and available for use in other files.)
+<b>My Solution</b>: <br>
+ • Add line "module.exports = Census" in "census.js" model file
+ • This line allows the Census model to be properly exported and available for use in other files.
