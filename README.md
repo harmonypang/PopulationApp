@@ -29,5 +29,5 @@ Click to run this project: <br>
  • Error: Census.aggregate() is not a function
 
 <b>My Solution</b>: <br>
- • Add line "module.exports = Census" in "census.js" model file
+ • Add line "module.exports = Census" in "census.js" model file <br>
  • This line allows the Census model to be properly exported and available for use in other files.
