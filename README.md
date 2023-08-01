@@ -1,9 +1,11 @@
 # PopulationApp
 A full-stack web app displays random population data from US Census data model using MongoDB, Express.js, React.js, Node.js (MERN).
- 
-<b>Problem encountered during development</b>: Error: Census.aggregate() is not a function
 
-<b>My Solution</b>: Add line "module.exports = Census" in "census.js" model file (This line allows the Census model to be properly exported and available for use in other files.)
+Features: <br>
+• Create the React app structure and Express backend structure.
+• Import the CSV file data into MongoDB.
+• Add code for Express routing and Mongoose middleware.
+• Create the React Front end.
 
 Data Source: <br>
  • <a href="https://www.kaggle.com/datasets/peretzcohen/2019-census-us-population-data-by-state">Kaggle</a>
@@ -23,3 +25,6 @@ IDE: <br>
 Click to run this project: <br>
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/harmonypang/PopulationApp)
 
+<b>Problem encountered during development</b>: Error: Census.aggregate() is not a function
+
+<b>My Solution</b>: Add line "module.exports = Census" in "census.js" model file (This line allows the Census model to be properly exported and available for use in other files.)
