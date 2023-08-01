@@ -2,6 +2,7 @@
 A full-stack web app displays random population data from US Census data model using MongoDB, Express.js, React.js, Node.js (MERN).
  
 Problem encountered during development: Error: Census.aggregate() is not a function <br>
+
 My Solution: Add line "module.exports = Census" in "census.js" model file (This line allows the Census model to be properly exported and available for use in other files.)
 
 Data Source: <br>
