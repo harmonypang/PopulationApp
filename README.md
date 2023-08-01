@@ -2,9 +2,9 @@
 A full-stack web app displays random population data from US Census data model using MongoDB, Express.js, React.js, Node.js (MERN).
 
 Features: <br>
-• Create the React app structure and Express backend structure.
-• Import the CSV file data into MongoDB.
-• Add code for Express routing and Mongoose middleware.
+• Create the React app structure and Express backend structure. <br>
+• Import the CSV file data into MongoDB. <br>
+• Add code for Express routing and Mongoose middleware. <br>
 • Create the React Front end.
 
 Data Source: <br>
