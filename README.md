@@ -1,5 +1,5 @@
 # PopulationApp
-A full-stack web app displays random population data from US Census data model using MongoDB, Express.js, React.js, Node.js (MERN).
+A full-stack app displays random population data from US Census data model using MongoDB, Express.js, React.js, Node.js (MERN).
 
 Features: <br>
 • Create the React app structure and Express backend structure. <br>
